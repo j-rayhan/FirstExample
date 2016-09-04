@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author user
- *
- */
-package Filetester;
